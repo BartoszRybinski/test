@@ -1,11 +1,8 @@
 {
-  "Employee": [
+  "posts": [
     {
       "id": 1,
-      "name": "Bartosz",
-      "surname": "Rybiński",
-      "pin": 12312312123,
-      "job": "Ratownik medyczny"      
+      "title": "hello"
     }
   ],
   "profile": {
