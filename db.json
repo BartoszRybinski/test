@@ -1,8 +1,18 @@
 {
-  "posts": [
+  "Employee": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Bartosz",
+      "surname": "Rybiński",
+      "pin": 12312312123,
+      "job": "Ratownik medyczny"      
+    }
+    {
+      "id": 2,
+      "name": "Katarzyna",
+      "surname": "Morawska",
+      "pin": 3232323,
+      "job": "Położna"       
     }
   ],
   "profile": {
